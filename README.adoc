@@ -7,4 +7,4 @@ It will be updated according the stories progress.
 
 The first one is:
 
-. https://hackernoon.com/road-to-simplicity-hexagonal-architecture-part-one-6m123u0z[Road to Simplicity: Hexagonal Architecture \[Part One\]]
+. https://hackernoon.com/road-to-simplicity-hexagonal-architecture-part-one-6m123u0z[Road to Simplicity: Hexagonal Architecture [Part One\]]
