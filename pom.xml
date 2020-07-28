@@ -12,7 +12,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-    <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
   </properties>
 
   <dependencies>
@@ -37,10 +36,6 @@
         <configuration>
           <release>11</release>
         </configuration>
-      </plugin>
-      <plugin>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <version>${maven-surefire-plugin.version}</version>
       </plugin>
     </plugins>
   </build>
