@@ -5,6 +5,7 @@ This software analyzes client capabilities such as java version and network spee
 It's a demo used as support to a series of story on https://hackernoon.com[Hacker Noon]. 
 It will be updated according the stories progress.
 
-The first one is:
+These are the stories link:
 
 . https://hackernoon.com/road-to-simplicity-hexagonal-architecture-part-one-6m123u0z[Road to Simplicity: Hexagonal Architecture [Part One\]]
+. https://hackernoon.com/road-to-simplicity-tests-are-not-tests-part-two-y6n3e7j[Road to Simplicity: Tests Are Not Tests [Part Two\]]
